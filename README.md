@@ -18,7 +18,6 @@ Followed by bar and pie charts using two differents plot options:
 
 In the last section a boxplot, scatter and correlation plots was created using scipy and intermediate statistic concept.
 It was created a loop with quartiles calculations and printing possibles outliers.
-Then a boxplot showing the variation of tumor volumes and 4 different drug medications.
-Followed by scatter plot with the correlation and a linear regression of tumor volume and mouse weight.
+Then a boxplot showing the variation of tumor volumes and 4 different drug medications followed by scatter plot with the correlation and a linear regression of tumor volume and mouse weight.
 
 ![image](https://user-images.githubusercontent.com/124798004/232280529-290c97e0-cca5-4e38-a44e-792cb16a958c.png)
