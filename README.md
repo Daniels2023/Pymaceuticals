@@ -1,4 +1,4 @@
-Pymaceuticals is a data visualization project based on Pandas, Scipy and Matplotlib.
+Pymaceuticals is a data visualization project developed in Pandas, Scipy and Matplotlib.
 ![image](https://user-images.githubusercontent.com/124798004/232278733-2cd92fa7-ed95-4680-aeef-c05a594029e8.png)
 
 "The above image show a boxplot between tumor volume and 4 differents drug medications tested in mice"
